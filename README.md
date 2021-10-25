@@ -2,6 +2,9 @@
 
 This is a to do list written in Java.
 
+## Libary used:
+- json-simple-1.1.jar (for interacting with json)
+
 
 ## Activity diagram:
 
